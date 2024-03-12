@@ -22,4 +22,3 @@ export function isValidCard(cardNumber) {
   }
   return sum % 10 === 0;
 }
-  

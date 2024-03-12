@@ -22,3 +22,4 @@ export function isValidInn(value) {
     }
     return sum % 10 === 0;
   }
+  
